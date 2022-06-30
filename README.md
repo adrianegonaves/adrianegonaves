@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Adriane Gonçalves 👋
 
 - 🌱 Estudando React 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 
 <div align="center">
