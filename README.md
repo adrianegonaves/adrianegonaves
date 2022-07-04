@@ -14,7 +14,7 @@
   <img align="center" alt="adriane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="adriane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adriane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/897122846411739186">
+   <img align="right" alt="adriane" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/897122846411739186/993315802822492191/octocat-1656894812556.png">
 </div>
 
 ##
