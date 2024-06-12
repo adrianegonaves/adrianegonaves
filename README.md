@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Adriane Gonçalves 👋
 
-- 🌱 Estudando React 
-- 😄 Pronomes: ela/dela
+- Frontend Developer
 
 
 <div align="center">
