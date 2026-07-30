@@ -1,12 +1,12 @@
-# Olá! Eu sou a Adriane Gonçalves 👋
+# Hi! I'm Adriane Gonçalves 👋
 
-### 👩‍💻 Desenvolvedora Front End | Engenheira de Software
+### 👩‍💻 Front End Developer | Software Engineer
 
-Desenvolvedora Front End com experiência na criação de aplicações web e mobile, focadas em usabilidade, performance e componentes reutilizáveis. Atualmente cursando Engenharia Informática no Instituto Politécnico de Santarém.
+Front End Developer with experience in building web and mobile applications focused on usability, performance, and reusable components. Currently pursuing a Bachelor's degree in Computer Engineering at the Polytechnic Institute of Santarém.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
 ### **Front-end & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,11 +19,11 @@ Desenvolvedora Front End com experiência na criação de aplicações web e mob
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Back-end & Outros**
+### **Back-end & Others**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Ferramentas & Workflow**
+### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -33,19 +33,17 @@ Desenvolvedora Front End com experiência na criação de aplicações web e mob
 
 ---
 
-## 📌 Sobre mim
+## 📌 About Me
 
-- 🎓 Cursando **Engenharia Informática** no Instituto Politécnico de Santarém (previsão 2027).
-- 💼 Mais de 2 anos de experiência com **React, React Native e TypeScript**.
-- 🚀 Vivência no desenvolvimento de módulos web, relatórios dinâmicos e apps mobile em ambientes **Agile/Scrum**.
-- 🎨 Foco em **UI/UX, componentes escaláveis e consumo de APIs REST**.
-- 💬 Idiomas: Português (Nativo), Inglês (Intermediário).
-
----
+- 🎓 Pursuing a B.S. in **Computer Engineering** at the Polytechnic Institute of Santarém (Expected Graduation: 2027).
+- 💼 2+ years of experience with **React, React Native, and TypeScript**.
+- 🚀 Hands-on experience developing web modules, dynamic reports, and mobile apps in **Agile/Scrum** environments.
+- 🎨 Focus on **UI/UX, scalable components, and REST API integration**.
+- 💬 Languages: Portuguese (Native), English (Intermediate).
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianegonaves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianegonaves@gmail.com)
